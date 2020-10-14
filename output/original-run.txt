@@ -1,0 +1,4 @@
+INFO:root:No model found in memory, creating one now.
+INFO:root:Training model...
+INFO:root:Done.
+INFO:root:Accuracy: 0.9765714285714285
