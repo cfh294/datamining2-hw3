@@ -21,3 +21,5 @@ pip3 install -r requirements.txt
 ```
 
 ## Jupyter
+
+You can alternatively run the [Jupyter Notebook](./digit-classifier.ipynb) included in this file, or view it's contents by opening [the HTML file](./digit-classifier.html).
